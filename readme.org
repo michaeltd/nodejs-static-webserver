@@ -1,4 +1,7 @@
-* Nodejs static webserver example
+#+title: nodejs static webserver example
+#+author: michaeltd
+#+date: <2019-08-30 Fri>
+
 * Usage
 Usage:
 1. git clone this ...
